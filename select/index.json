@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "O-V-E-R-H-E-A-T",
+  "base_artist": "ノーナ・リーヴス",
+  "createdAt": "2025-12-13T05:46:04.318807Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "O-V-E-R-H-E-A-T",
+      "artist": "NONA REEVES",
+      "has_synced": true,
+      "path": "select/01_O-V-E-R-H-E-A-T_NONA_REEVES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O-V-E-R-H-E-A-T",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_O-V-E-R-H-E-A-T_Nona_Reeves.txt"
+    }
+  ]
+}
